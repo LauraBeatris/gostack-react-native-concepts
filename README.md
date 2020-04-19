@@ -23,4 +23,4 @@
   // Start application with a Android Emulator 
   react-native run-android 
 ```
-It's important to mention that the url from the [app.js](https://github.com/LauraBeatris/gostack-react-native-concepts/blob/master/src/services/api.js) file will change dependending of the way you're running your app with a emulator. 
+It's important to mention that the url from the [app.js](https://github.com/LauraBeatris/gostack-react-native-concepts/blob/master/src/services/api.js) file will change depending of the way you're running your app with a emulator. 
