@@ -23,3 +23,4 @@
   // Start application with a Android Emulator 
   react-native run-android 
 ```
+It's importante to mention that the url from the ```api.js``` file will change dependending of the way you're running your app with a emulator. 
